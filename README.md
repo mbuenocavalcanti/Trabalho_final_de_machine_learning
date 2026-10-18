@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![Imagem](Cabecalho).png)
+  ![Imagem](Cabecalho.png)
 
 
 Aluna: Mariana Bueno Cavalcanti
@@ -58,7 +58,7 @@ Variáveis categóricas: revestimento, linhagem celular e ensaio.
 
 <div align="center">
 
-  ![Imagem](Rodape).png)
+  ![Imagem](Rodape.png)
 
 
 
