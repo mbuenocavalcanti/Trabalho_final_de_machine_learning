@@ -50,7 +50,6 @@ Variáveis numéricas: diâmetro, concentração (µM), potencial zeta, tempo de
 
 Variáveis categóricas: revestimento, linhagem celular e ensaio.
 
-### Como funciona
 
 
 ### Referências
