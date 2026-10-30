@@ -3,11 +3,12 @@
   ![Imagem](Cabecalho.png)
 
 
-Aluna: Mariana Bueno Cavalcanti
-
-Prof. Responsável: Dr. Daniel R. Cassar.
 
 # Trabalho final de Machine Learning
+
+Aluna: Mariana Bueno Cavalcanti.
+
+Prof. Responsável: Dr. Daniel R. Cassar.
 
 </div>
 
@@ -44,7 +45,7 @@ Fonte: [https://github.com/mcurcumin/mayoufu-rcs-I-ML-Predicts-Antitumor-Effects
 
 Tamanho: 2.765 medidas, 25 nanopartículas distintas, 621 experimentos distintos.
 
-Alvo: toxicidade binária (1 = tóxico).
+Alvo: toxicidade binária (0 = não tóxico, 1 = tóxico).
 
 Variáveis numéricas: diâmetro, concentração (µM), potencial zeta, tempo de exposição e descritores do material (χ, soma de χ, número de metais e de oxigênios, massa molar, estado de oxidação, HoF, CA, HOMO, NFL, TX, Eg, Pol, entre outros).
 
