@@ -37,7 +37,16 @@ O projeto foi desenvolvido em Python 3.13.7, com as seguintes bibliotecas:
 4. Optuna: otimização de hiperparâmetros com amostragem bayesiana (TPE), com no mínimo 100 tentativas por modelo e PR-AUC como métrica otimizada.
 
 ### Conteúdos do Repositório
-Este repositório possui todos os códigos, no notebook jupyter, necessários para realizar as predições, bem como os dados utilizados em arquivos csv e os gráficos da Análise Exploratória do dados.
+
+| Item | Descrição |
+|---|---|
+| **projetofinal_ml.ipynb** | Notebook principal: análise exploratória, pré-processamento, otimização de hiperparâmetros com Optuna, treino e avaliação dos modelos. |
+| **nanotox_literatura.csv** | Base de dados compilada da literatura, com características das nanopartículas, condições experimentais e viabilidade celular (usada para definir a classe tóxico / não tóxico). |
+| **\*_nanotoxicidade.db** | Bancos SQLite com os estudos do Optuna de cada modelo (KNN, Regressão Logística, Árvore de Decisão, Random Forest e Boosting), guardando todos os trials para reprodução. |
+| **Imagens/** | Figuras do projeto: cabeçalho e rodapé do README, distribuições dos dados e da viabilidade celular, matriz de correlação e matrizes de confusão (baseline e modelos). |
+| **README.md** | Documentação do projeto. |
+| **LICENSE** | Licença de uso. |
+| **.gitignore** | Arquivos ignorados pelo Git. |
 
 
 ### Dados
