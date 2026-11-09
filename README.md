@@ -64,6 +64,7 @@ Variáveis categóricas: revestimento, linhagem celular e ensaio.
 
 ### Referências
 [MA, Youfu et al. Interpretable machine learning models for predicting the antitumor effects of metal and metal oxide nanomaterials. RSC Advances, v. 15, n. 21, p. 17036-17048, 2025. Acesso em: 01 out. 2026.](https://pubs.rsc.org/ra/article/15/21/17036/906739/Interpretable-machine-learning-models-for)
+[SAITO, Takaya; REHMSMEIER, Marc. The precision-recall plot is more informative than the ROC plot when evaluating binary classifiers on imbalanced datasets. PLoS ONE, v. 10, n. 3, e0118432, 2015. Acesso em: 02 out. 2026.](https://doi.org/10.1371/journal.pone.0118432). Acesso em: 9 nov. 2026.
 
 <div align="center">
 
